@@ -1,2 +1,2 @@
 4주차 수업 
-git/git hub
+깃 리뷰/git hub
